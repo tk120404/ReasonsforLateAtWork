@@ -35,6 +35,12 @@ Lists of Reasons for arriving late at Work
 - We had a birthday party last night
 - We had late party/dinner yesterday
 - I cleaned my room
-- Laundry guy was late so no dress to wear for work
+- Laundry guy was late so no dress to wear for work/My clothes were wet
 - I had stomach ache in the morning
 - I was not feeling well in the morning
+- My pet went missing
+- I got locked indoors by friend/spouse/kids
+- Had a hair cut today
+- I had a doctor appointment today
+- My kids/pet/spouse misplaced the socks/shoes
+- My in-laws were at home
