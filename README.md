@@ -14,16 +14,16 @@ Lists of Reasons for arriving late at Work
 - Left my wallet/helmet at home and had to go back and pick it up
 - I was sick this morning
 - My roommate/friend/spouse/parent/pet/Kid was sick, I had to take him/her to clinic/hospital
-- I Was invited/requested at Kid's school to be present
+- I was invited/requested at Kid's school to be present
 - Metro/My Transit was late
 - Got speed ticket
 - Got traffic ticket
 - Alarm/Clock didnt work
 - Ola/Uber/Lyft Pool/Share took more time
-- Met with an small accident
+- Met with a small accident
 - My landlord was at home
 - My Kids missed the school bus
 - My Parents were at home
 - I returned today from my hometown
 - Today is Monday
-- Today is friday
+- Today is Friday
