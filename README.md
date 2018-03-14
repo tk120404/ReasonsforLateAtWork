@@ -29,3 +29,12 @@ Lists of Reasons for arriving late at Work
 - Today is Friday
 - I left late from work yesterday
 - I was coding late night yesterday
+- My Uncle/Grand mother expired
+- I was at gym today
+- My kid/spouse was cranzy yesterday night
+- We had a birthday party last night
+- We had late party/dinner yesterday
+- I cleaned my room
+- Laundry guy was late so no dress to wear for work
+- I had stomach ache in the morning
+- I was not feeling well in the morning
