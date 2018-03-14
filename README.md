@@ -27,3 +27,5 @@ Lists of Reasons for arriving late at Work
 - I returned today from my hometown
 - Today is Monday
 - Today is Friday
+- I left late from work yesterday
+- I was coding late night yesterday
