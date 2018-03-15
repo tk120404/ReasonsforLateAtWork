@@ -44,3 +44,4 @@ Lists of Reasons for arriving late at Work
 - I had a doctor appointment today
 - My kids/pet/spouse misplaced the socks/shoes
 - My in-laws were at home
+- There is no meeting/standup today
