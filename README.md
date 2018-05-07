@@ -46,3 +46,4 @@ Lists of Reasons for arriving late at Work
 - My in-laws were at home
 - There is no meeting/standup today
 - Had to give car/motorbike for the service 
+- My Bike/Car clock is running late by 10 mins. I need to change it
