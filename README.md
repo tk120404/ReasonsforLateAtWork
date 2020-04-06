@@ -1,4 +1,20 @@
 # ReasonsforLateAtWork
+
+Lists of Reasons for arriving late for Online Meet
+
+1. My kid/pet messed up my router/modem
+2. I was preparing my breakfast 
+3. Desk Clock battery went off
+4. My internet is slow here as all are working from home
+5. Kids locked up my room
+6. Bio break
+7. Forgot my laptop password after the netflix weekend
+8. I cleaned my room
+9. I was coding late night yesterday
+10. I had an online doctor appointment today
+11. My kid/spouse was cranzy because of lockdown
+12. My desk clock is running 10 minutes late
+
 Lists of Reasons for arriving late at Work
 
 - Traffic police caught me
